@@ -51,8 +51,7 @@ python chatbot.py
 - Speak into your microphone when prompted.
 - Listen to the chatbot's response.
 - Say "Goodbye" to end the session and exit the program.
-An example of a possible interaction is available on the following video:
-[Video: Teddy Bear Interaction Example](https://www.youtube.com/link-to-video-2)
+
 ---
 
 ## Project Structure
@@ -109,14 +108,14 @@ Dependency Issues: Ensure all required libraries are installed using `pip instal
 
 ## Project Extension: Teddy Bear Voice Assistant
 
-In addition to the core functionality of the voice chatbot, I extended the project by integrating it with an **Asus Thinkerboard**. The board acts as the central controller for the chatbot's operations. I connected a **microphone** and **speaker** to the Thinkerboard and embedded everything inside a **teddy bear** to create a kid-friendly interactive toy, similar to the **Furby**.
+In addition to the core functionality of the voice chatbot, I extended the project by integrating it with an **Asus Tinker Board**. The board acts as the central controller for the chatbot's operations. I connected a **microphone** and **speaker** to the Tinker Board and embedded everything inside a **teddy bear** to create a kid-friendly interactive toy, similar to the **Furby**.
 
 This project extension aims to provide a fun and engaging experience for children while maintaining the capabilities of the voice chatbot.
 
 ### Watch the Interaction in Action
 You can see the teddy bear in action with the chatbot by watching this video on YouTube:
 
-- [Video: Teddy Bear Voice Assistant Demo](https://www.youtube.com/link-to-video-1)
+- [Video: Teddy Bear Voice Assistant Demo](https://www.youtube.com/watch?v=SeFYSADezcM)
 
 ---
 
